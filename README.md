@@ -37,7 +37,7 @@ Secrets required:
 AWS_ACCESS_KEY_ID
 AWS_SECRET_ACCESS_KEYi
 
-###Monitoring & Logging (Conceptual)
+### Monitoring & Logging (Conceptual)
 Logs:
     Use AWS CloudWatch logs from ECS task definitions.
 Monitoring:

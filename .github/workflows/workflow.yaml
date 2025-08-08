@@ -31,7 +31,7 @@ jobs:
           port: 22
           script: |
             set -e
-            cd /home/${{ secrets.EC2_USER }}/my-app
+            cd /home/${{ secrets.EC2_USER }}/project/hello-world/fargate-deployment-app/
             chmod +x deploy.sh
             ./deploy.sh
 

@@ -8,7 +8,7 @@ This repo contains a containerized FastAPI backend and a React frontend, deploye
 
 ## 🚀 Local Docker Run
 
-### Backend (FastAPI)
+###### Backend (FastAPI)
 
 ```bash
 cd backend

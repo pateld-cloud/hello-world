@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 set -euo pipefail
 
-# Where repo is copied on EC2 (matching workflow target)
+## Where repo is copied on EC2 (matching workflow target)
 APP_DIR="/home/ubuntu/project/hello-world/fargate-deployment-app"
 
 echo "Starting deploy at $(date)"

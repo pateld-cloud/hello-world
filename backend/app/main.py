@@ -4,5 +4,5 @@ app = FastAPI()
 
 @app.get("/")
 def hello():
-    return {"message": "Hello from FastAPI on AWS Fargate!"}
+    return {"message": "Hello!! from FastAPI on AWS Fargate!"}
 

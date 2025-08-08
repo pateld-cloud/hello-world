@@ -44,4 +44,4 @@ Monitoring:
     Use AWS CloudWatch alarms and metrics on CPU/memory.
     Set up alerts on container health and availability.
 Optional tools:
-    Datadog, Prometheus + Grafana (self-hosted).
+    Datadog, Prometheus + Grafana (self-hosted)
